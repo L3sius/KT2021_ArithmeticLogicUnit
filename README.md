@@ -2,13 +2,13 @@
 This project includes arithmetic logic unit made with logisim during KT lesson in Vilnius University.
 
 Circuits explained: <br>
-Main - contains the whole logic of the project. Using IU (Input units) its possible to send information to ALU and see the output it provides. First two IU are for A and B values. The third one is for the operation it self (see operation list below). <br>
-ALU - arithmetic logic unit itself. It takes 3 inputs and produces 1 output. (Possible to add 1 more input - reset) <br>
-Explanations - this circuit contains functionality of popular logisim pre-made circuits. For example: adders, multipliers, shifters. Its possible to test and see how they work beneath the premade design. <br>
-Input Only - an input only circuit which connects to ALU and is more understandable and intuitive design. <br>
+**Main** - contains the whole logic of the project. Using IU (Input units) its possible to send information to ALU and see the output it provides. First two IU are for A and B values. The third one is for the operation it self (see operation list below). <br>
+**ALU** - arithmetic logic unit itself. It takes 3 inputs and produces 1 output. (Possible to add 1 more input - reset) <br>
+**Explanations** - this circuit contains functionality of popular logisim pre-made circuits. For example: adders, multipliers, shifters. Its possible to test and see how they work beneath the premade design. <br>
+**Input Only** - an input only circuit which connects to ALU and is more understandable and intuitive design. <br>
 
 
-Operation list: <br>
+**Operation list:** <br>
 With the third input only its possible to send the following commands: <br>
 0 - show first input <br>
 1 - show second input <br>
